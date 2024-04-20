@@ -47,5 +47,3 @@ El proyecto hace uso de las siguientes bibliotecas:
 - **nbformat**: Para trabajar con el formato de cuadernos Jupyter.
 
 ---
-
-¡Gracias por usar nuestro proyecto! Si tienes alguna pregunta o sugerencia, no dudes en ponerte en contacto con nosotros. ¡Disfruta explorando las redes complejas!
